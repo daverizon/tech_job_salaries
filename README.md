@@ -1,6 +1,9 @@
 # tech_job_salaries
 This code aims to answer questions about base salary and total annual compensation for Data Science and STEM Salaries.  Data was analyzed from Kaggle located here: https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries
 
+## Blog Post
+https://medium.com/@daniel.abreu_14097/salaries-in-tech-9f5ef4b3f218
+
 ## Project motivation
 Questions which drove this project were the following:
 1) Which tech job pays the most base salary and total yearly compensation on average?
