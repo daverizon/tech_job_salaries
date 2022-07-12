@@ -6,10 +6,10 @@ https://medium.com/@daniel.abreu_14097/salaries-in-tech-9f5ef4b3f218
 
 ## Project motivation
 Questions which drove this project were the following:
-1) Which tech job pays the most base salary and total yearly compensation on average?
+1) What does the base salary and total annual compensation distribtion look like for various tech jobs?
 2) What is the average number of years people stay at a company?
-3) Do males have a larger overall annual compensation than females in the tech industry?
-4) What are the biggest contributors to the overall annual compensation you make?
+3) Is there any gender bias for the total annual compensation in the tech industry?
+4) What are the biggest contributors to the total annual compensation in the tech industry?
 
 ## Libraries used
 numpy, pandas, and Pyplot from Matplotlib - These are standard libraries for analyzing and visualizing data in Python
