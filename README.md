@@ -10,10 +10,12 @@ Questions which drove this project were the following:
 
 ## Libraries used
 numpy, pandas, and Pyplot from Matplotlib - These are standard libraries for analyzing and visualizing data in Python
+
 sklearn - This package is a standard package in Python for machine learning and is used to build a Linear Regression model in this project
 
 ## Files in the repository
 Levels_Fyi_Salary_Data.csv: This is a csv file obtained from the Kaggle site listed above.  Full information on the data, columns, data types, etc are located there
+
 tech_job_salaries.ipynb: This is the jupyter notebook created in order to answer the questions listed above.  It note only goes through some data wrangling in order to answer some analysis questions, but it also includes a machine learning Linear Regression model at the end to look into question (4) listed
 
 NOTE: tech_job_salaries.ipynb will need to be located in the same folder as Levels_Fyi_Salary_Data.csv in order to run the script
